@@ -1,8 +1,8 @@
 import React from 'react'
 // import HeroSection from '../components/HeroSection'
 // import Form from '../components/Form'
-import Button from '../components/Button'
-import  MultiButton  from '../components/MultiButton'
+import Button from '../components/material/Button'
+import  MultiButton  from '../components/material/MultiButton'
 
 const playgroud = () => {
   return (
