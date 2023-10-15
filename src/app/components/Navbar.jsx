@@ -17,11 +17,8 @@ const navLinks = [
   {
     title: "Contact",
     path: "#contact",
-  },
-  {
-    title: "playgroud",
-    path: "/playgroud",
   }
+  
 ];
 
 const Navbar = () => {
